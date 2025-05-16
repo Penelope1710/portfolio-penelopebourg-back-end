@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:/legal-informations.html
+Sitemap://penelopebourg.fr/sitemap.xml

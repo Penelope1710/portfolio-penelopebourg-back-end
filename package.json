@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-penelopebourg",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penelope1710/portfolio-penelopeBourg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Penelope1710/portfolio-penelopeBourg/issues"
+  },
+  "homepage": "https://github.com/Penelope1710/portfolio-penelopeBourg#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "nodemailer": "^6.10.1",
+    "recaptcha-v3": "^1.11.3"
+  }
+}
